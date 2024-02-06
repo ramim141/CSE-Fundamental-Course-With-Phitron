@@ -1,2 +1,0 @@
-myVariableName = "John"
-print(myVariableName)
